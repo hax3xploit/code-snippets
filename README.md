@@ -37,7 +37,7 @@ if datetime.datetime.now(pk_tz).date() >= stop_date.date() and current_time >= s
 else:
 ```
 
-### Install libraries directory from the code.
+### Install libraries directly from the code using pip/pip3.
 ```python3
 import subprocess
 
